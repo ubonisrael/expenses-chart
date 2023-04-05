@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ubonisrael/expenses-chart](https://github.com/ubonisrael/expenses-chart)
+- Live Site URL: [https://expenses-chart-ubonisrael.vercel.app/](https://expenses-chart-ubonisrael.vercel.app/)
 
 ## My process
 
